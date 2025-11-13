@@ -28,9 +28,3 @@ This project performs basic arithmetic operations — addition, subtraction, mul
 - **JavaScript (ES6)**  
 
 ---
-
-## 🚀 How to Run the Project
-
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/yourusername/Calculator.git
